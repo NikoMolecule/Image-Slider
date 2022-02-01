@@ -24,3 +24,5 @@ Slides though different photos
 - More Photos, Cleaner Code.
 
 ###### Website Link:
+
+https://image-slider-molecule.netlify.app
