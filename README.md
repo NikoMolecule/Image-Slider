@@ -1,6 +1,6 @@
 # Image-Slider-Molecule ![](https://img.shields.io/badge/image--slider-v1.0.0--stable-blue)
 
-Hello, this is my another. I built this project to write code more indenpendently in Javascript.
+Hello, this is my another project. I built this project to write code more indenpendently in Javascript.
 
 ## Project Description
 
